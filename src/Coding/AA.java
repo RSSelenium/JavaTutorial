@@ -1,6 +1,8 @@
 package Coding;
 
 public class AA {
+	
+	//trying to establish github here & upload file using same
 
 	public static int Factorial(int num) {
 		int f=1;
